@@ -1,0 +1,20 @@
+{
+    "name": "user/bienesraices",
+    "description": "Creando un proyecto con Poo",
+    "type": "project",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./classes"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tomas Soto",
+            "email": "sototomas.nf@gmail.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^3.8"
+    }
+}
